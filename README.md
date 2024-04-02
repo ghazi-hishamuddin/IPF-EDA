@@ -6,7 +6,7 @@
 In recent times, powerlifting has gained immense popularity, especially after being featured in various mainstream media and events. Interestingly, I too found myself roped into the world of powerlifting, 
 competing in two competitions in 2022. This personal involvement has not only fueled my passion for the sport but also provided me with a unique perspective on the challenges and intricacies of powerlifting!
 
-Do take a look at the full analysis <a href='https://github.com/ghazi-hishamuddin/openpowerlifting_ipf_eda/blob/main/IPF_EDA.ipynb'>here</a>! 
+Do take a look at the full analysis <a href='https://github.com/ghazi-hishamuddin/openpowerlifting_ipf_eda/blob/main/ipf-EDA-updated.ipynb'>here</a>! 
 </p>
 
 ## Background
