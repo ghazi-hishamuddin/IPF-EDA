@@ -11,6 +11,9 @@ Do take a look at the full analysis <a href='https://github.com/ghazi-hishamuddi
 
 ## Background
 
+![image](https://github.com/ghazi-hishamuddin/openpowerlifting_ipf_eda/assets/142828521/0306e5d3-f0a5-4cc5-a729-5bab8fbce907)
+
+
 <p align="justify">
 Driven by a curiosity to determine my own standards in this strength sport, this project was started to uncover patterns, trends, and insights about powerlifting. I wanted to also know whether my bodyweight is limiting me in getting stronger in this sport.
 I delved into finding out whether bodyweight is truly a significant contributing factor to a lifter's overall performance and strength. Through visualizations and statistical analyses, key aspects are explored, and the analysis also spotlights specific athletes, examining their achievements and how they compare to others in their respective weight classes and the broader powerlifting community.
